@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My First Blog",
+      "body": "This is the content of my first blog post.",
+      "author": "John Doe"
+    },
+    {
+      "id": "3",
+      "title": "Why JSON is Great",
+      "body": "JSON is lightweight and easy to use for data exchange.",
+      "author": "Alice Johnson"
+    }
+  ]
+}
